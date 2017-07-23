@@ -9,6 +9,7 @@ The viable systems architecture tries to model the Viable System Model of S. Bee
 
 ## Visualize Archimate component properties
 Add properties to archimate components and/or relations according a certain format and analyze through iPython Notebook.
+Model must be exported to Postgres DB
 
 ### Format:
 
